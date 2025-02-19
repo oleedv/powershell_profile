@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Do not ignore specific files
+!Microsoft.PowerShell_profile.ps1
+!README*
+!.gitignore
